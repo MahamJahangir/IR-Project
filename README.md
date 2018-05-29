@@ -5,18 +5,20 @@ We have been given six datasets and ask to select three out of them. Then we hav
 # HOW TO RUN THIS PROJECT
 
 Download the repository to your local computer using link: 
+
 https://github.com/MahamJahangir/IR-Project
+
 and then download the required datasets as well. Links for the datasets selected for this project are:
 -	https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
 -	https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
 -	https://archive.ics.uci.edu/ml/datasets/Sentence+Classification
 
-There are separate python file for each dataset in the repository.
+There are three separate python file for each dataset in the repository.
 - Algorithms on SENTENCE CORPUS DATA.ipynb
 - Algorithms on SENTENCE dbworld.ipynb
 - IR_LegalDataset_v1.ipynb
 
-You can run them individually to see the result of our analysis on each dataset. 
+You can execute them separately to see the analysis on each dataset. 
 
 # Reason for choosing the datasets
 We have chosen three datasets for our project. These are:
