@@ -42,7 +42,7 @@ https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
 ## Dataset basics:
 The data is in the .mat files. Separate file for subjects and bodies are there in the data. These have to be read separately with their labels and classification tasks applied to them separately.
 
-##Working:
+## Working:
 - The dataset is already preprocessed. Therefore there is no preprocessing to be done. 
 - The dataset is then split into training and test sets using scikitlearn’s training_test_split.
 - Each classification task is performed on the dataset and analyzed using accuracy.
